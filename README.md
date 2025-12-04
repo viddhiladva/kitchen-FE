@@ -91,53 +91,6 @@ kitchen-frontend/
 └── README.md
 ```
 
-## 🎯 Features
-
-✅ **Full CRUD Operations**
-- Create, Read, Update, Delete for all entities
-- Modal-based forms for create/edit
-
-✅ **Search & Pagination**
-- Real-time search functionality
-- Paginated tables with navigation
-
-✅ **Responsive Design**
-- Mobile-friendly Bootstrap layout
-- Works on all screen sizes
-
-✅ **Modern UI**
-- Clean and professional design
-- Bootstrap 5 components
-- Gradient headers and cards
-
-✅ **Type Safety**
-- Full TypeScript support
-- Type-safe API calls
-
-## 📡 API Integration
-
-The frontend connects to the backend API endpoints:
-
-- `GET /api/levels` - Get all levels
-- `POST /api/levels` - Create level
-- `PUT /api/levels/:id` - Update level
-- `DELETE /api/levels/:id` - Delete level
-
-Similar endpoints for categories, admins, and items.
-
-## 🎨 UI Components
-
-### Dashboard
-- Overview statistics
-- Quick navigation cards
-- Getting started guide
-
-### Entity Management Pages
-- Search bar
-- Data table with actions
-- Pagination controls
-- Create/Edit modals
-
 ## 🔧 Development
 
 ### Available Scripts
@@ -175,3 +128,4 @@ Similar endpoints for categories, admins, and items.
 
 ISC
 
+Frontend Live URL : https://kitchen-fe.onrender.com/
